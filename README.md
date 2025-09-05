@@ -4,8 +4,3 @@ This project is a simple Convolutional Neural Network (CNN) designed to classify
 
 **Note:** The trained models and image datasets have been removed from this project due to their large size. However, training the model using the provided code achieves approximately **93% accuracy**.
 
-## Download Datasets and Models
-
-You can access the original image datasets and trained models used in this project via the following Google Drive link:
-
-[Google Drive - Plant Disease Recognition Resources](https://drive.google.com/drive/folders/10F-W6hQ8SEhefnrja7x0VvokCt-Wd09h?usp=sharing)
